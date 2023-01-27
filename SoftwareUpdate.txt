@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add visuals in guides/distance-calculation.md (#7876)
