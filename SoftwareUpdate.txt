@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Replace onnx2tf usage from CLI to Python (#8429)
