@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Object Counter improvements (#8648)
