@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+OpenVino 2024.0.0 (#8726)
