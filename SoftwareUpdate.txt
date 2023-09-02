@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+OBB: Fix plot_images (#7592)
