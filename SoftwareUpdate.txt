@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Improve Docs Modes tables (#8266)
